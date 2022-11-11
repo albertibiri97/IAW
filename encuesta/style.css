@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+form{
+    padding-top: 4%;
+    display: block;
+    margin: 5% auto 0;
+    width: 300px;
+    height: 350px;
+    border: 2px solid grey;
+    border-radius: 4px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+h1{
+    font-size: 1.35em;
+    font-weight: lighter;
+    text-align: center;
+    margin-bottom: 3%;
+}
+h2{
+    font-size: 1em;
+    font-weight: lighter;
+    text-align: center;
+    margin-bottom: 5%;
+}
+input{
+    display: block;
+    margin: 2% auto 0;
+    border-radius: 4px;
+    border: 1px solid grey;
+    padding: 3%;
+    width: 60%;
+}
+form a{
+    display:  block;
+    font-size: 0.7em;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(66, 94, 255);
+}
+#enviar{
+    margin-left: 60%;
+    width: 20%;
+}
